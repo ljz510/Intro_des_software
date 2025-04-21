@@ -5,9 +5,9 @@ En este trabajo práctico se busca evaluar los conceptos adquiridos en las clase
 Introducción
 En Namek, el destino del universo pende de un hilo. Los Guerreros Z, las Fuerzas Ginyu y los valientes namekuseijin luchan con todas sus fuerzas en un enfrentamiento que determinará el futuro de las Esferas del Dragón y la balanza del poder. Freezer avanza implacable, decidido a obtener el poder absoluto y someter al universo bajo su dominio luego de desear la inmortalidad. A medida que el conflicto escala, héroes y villanos despliegan estrategias en una batalla donde cada decisión es crucial. El destino de Namek y su gente está en juego, mientras el equilibrio entre el bien y el mal se define en medio del caos.
 
-##¡La batalla por Namek apenas comienza! 💫 🪐
+## ¡La batalla por Namek apenas comienza! 💫 🪐
 
-Freezer, Zarbon y Dodoria
+
 
 Ejercicios
 Ejercicio 0
