@@ -9,8 +9,8 @@ En Namek, el destino del universo pende de un hilo. Los Guerreros Z, las Fuerzas
 
 
 
-Ejercicios
-Ejercicio 0
+# Ejercicios
+## Ejercicio 0
 Sintiendo la presencia de Freezer en Namek, el Gran Patriarca está decidido a ayudar a Dendé a desbloquear su verdadero potencial para ayudar a los Guerreros Z a usar las esferas. Queremos conocer la nueva energía total de Dendé para entender su capacidad para sanar y asistir a los guerreros y así poder evitar utilizar todas las semillas del ermitaño.
 
 Escribir un programa que reciba la energía antigua de Dendé y la energía adicional que obtiene al desbloquear su potencial como parámetros, e imprima su energía total (La suma de ambas).
